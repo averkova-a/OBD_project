@@ -71,11 +71,15 @@ TaskShot складатиметься з інтуїтивно зрозуміло
 
 
 Діаграма дій зареєстрованого користувача
-![Діаграма дій зареєстрованого користувача](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/LoginUser.png)
+![Діаграма дій Зареєстрованого користувача](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/LoginUser.png)
 
 
 Діаграма дій учасника проекту
-![Діаграма дій учасника проекту](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/ProjectUser.png)
+![Діаграма дій Учасника проекту](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/ProjectUser.png)
+
+
+Діаграма дій Менеджера
+![Діаграма дій Менеджера](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/Manager.png)
 
 
 Розширення для "Керування артефактами"
