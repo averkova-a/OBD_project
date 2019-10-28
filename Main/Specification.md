@@ -66,6 +66,8 @@ TaskShot складатиметься з інтуїтивно зрозуміло
 
 
 ## Діаграми юзкейсів (доповнюється)
+
+
 Діаграма користувачів
 ![Діаграма користувачів](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/Users.png)
 
