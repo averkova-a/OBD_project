@@ -1,0 +1,56 @@
+@startuml
+
+
+
+object "Операція" as operation
+object "Ім'я" as operationName
+object "Право" as privilege
+object "Роль" as role
+object "Ім'я" as roleName
+object "Тип артефакту" as artifactType
+object "Ім'я" as artifactTypeName
+object "Артефакт" as artifact
+object "Ім'я" as artifactName
+object "Опис" as description
+object "Призначення" as definition
+object "Дата" as date
+object "Проект" as project
+object "Назва" as projectTitle
+object "Іконка" as projectIcon
+object "Номер" as projectId
+object "Користувач" as user
+object "email" as email
+object "login" as login
+
+operation o-up- operationName
+operation "1,1"-right-"0,*" privilege
+privilege "0,*"-right-"1,1" role
+role o-up- roleName
+privilege "0,*"-down--"1,1" artifactType
+artifactType o-left- artifactTypeName
+artifactType "1,1"---"0,*" artifact
+artifact o-down- artifactName
+artifact o-down- description
+role "1,1"-down--"0,*" definition
+definition "0,*"-right-"1,1" user
+user o-right- email
+user o-down- login
+definition o-down- date
+definition "1,1"-down--"0,*" project
+project o-down- projectTitle
+project o-down- projectIcon
+project o-down- projectId
+
+
+
+
+
+
+
+
+
+
+
+
+
+@enduml
