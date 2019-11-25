@@ -84,4 +84,10 @@ TaskShot складатиметься з інтуїтивно зрозуміло
 
 Розширення для "Керування артефактами"
 ![Розширення для "Керування артефактами"](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/Artefacts.png)
-## Діаграма бізнес-моделей
+## Діаграма бізнес-сутностей
+![Діаграма бізнес-сутностей](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/BusinessEntity.png)
+
+
+## Діаграма класів
+![Діаграма класів](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/ClassDiagram.png)
+
