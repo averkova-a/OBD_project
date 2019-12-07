@@ -90,3 +90,7 @@ TaskShot складатиметься з інтуїтивно зрозуміло
 ## Діаграма класів
 ![Діаграма класів](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/ClassDiagram.png)
 
+
+## Діаграма EER 
+![Діаграма EER](https://github.com/averkova-a/OBD_project/blob/master/Main/UC-Diagram/eer.png)
+
